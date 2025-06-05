@@ -7,8 +7,7 @@
 
 </div>
 
-### Name : Nabilah Putri Wijaya 
-### University: Universitas Semarang
+### Name : Nabilah Putri Wijaya (Universitas Semarang)
 ### Tech Stack : Python, Gradio, LangChain, HuggingFace Embedding, FAISS vector store
 
 ---
